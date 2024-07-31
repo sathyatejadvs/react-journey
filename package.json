@@ -1,0 +1,11 @@
+{
+  "name": "react-journery",
+  "version": "1.0.0",
+  "description": "Learning React from Zero to Hero",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satya Teja DVS",
+  "license": "ISC"
+}
